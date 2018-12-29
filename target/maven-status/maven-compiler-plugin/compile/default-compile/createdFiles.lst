@@ -1,0 +1,12 @@
+com\gary\service\MessageService.class
+com\gary\service\impl\MessageServiceImpl.class
+com\gary\entity\RestStatus.class
+com\gary\controller\UserController.class
+com\gary\entity\User.class
+com\gary\entity\LayuiResult.class
+com\gary\Application.class
+com\gary\entity\BaseResponse.class
+com\gary\SpringBootStartApplication.class
+com\gary\mapper\MessageMapper.class
+com\gary\controller\MessageController.class
+com\gary\entity\Message.class
